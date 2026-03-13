@@ -13,6 +13,8 @@ I enjoy exploring machine learning workflows, scientific computing <br>and compu
 
 </br>
 
+<hr>
+
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
@@ -27,6 +29,7 @@ I enjoy exploring machine learning workflows, scientific computing <br>and compu
 
 </br>
 
+<hr>
 <h3 align="left">🎓 Education</h3>
 
 Bachelor’s degree in <b>Biomedical Engineering</b>  
@@ -43,6 +46,8 @@ Bachelor’s degree in <b>Biomedical Engineering</b>
 • Development and evaluation of medical technologies
 
 </br>
+
+<hr>
 
 #### Languages
 
